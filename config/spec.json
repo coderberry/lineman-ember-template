@@ -2,6 +2,7 @@
   "framework" : "qunit",
   "launch_in_dev" : ["Chrome"],
   "launch_in_ci" : ["PhantomJS"],
+  "test_page": "generated/spec.html",
   "src_files" : [
     "generated/js/app.js",
     "generated/js/spec.js"

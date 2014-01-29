@@ -107,7 +107,7 @@ module.exports = function(lineman) {
         files: {
           "generated/js/app.js": ["app/.index.js"]
         }
-      }
+      },
     },
 
     clean: {
